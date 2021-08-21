@@ -1,31 +1,8 @@
 # Data-Analysis-Netflix
 
-h1 align="center">Netflix Data Visualization</h1>
-
-<div align='center'>
-<img src='https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/tenor.gif'><br>
-Above GIF has been downloaded from tenor.com
-</div>
-
-<div align= "center">
-  <h4>Netflix Data Visualization is built using Seaborn and Matplotlib in Python.</h4>
-</div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## :innocent: Motivation
 From past few years, Netflix has become very famous as a choice to watch movies and tv shows online. But did you ever think - how many series are there? Or how many movies they have? Which country has most movies available? This list goes on! So out of this curiosity, I came up with this visualization project to know more about Netflix. 
-
- 
-## :hourglass: Few Sample PLots
-
-![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/CastWithMostNumMovies.png)
-
-![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/CastWithMostNumTvShow.png)
-
-![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/DirectorWithMostMovies.png)
-
-![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/MostMoviesFromSpeificGenre.png)
 
 ## :star: Features
 <ol>
